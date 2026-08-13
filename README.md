@@ -4,8 +4,6 @@
 
 A tiny mouse-chasing mini-game written in pure Java Swing. Try to catch Pucca, but she is fast: whenever you move your cursor onto her, she jumps to a random spot on the screen and taunts you. Only click on her before she escapes — then she is yours.
 
-The catch is that for the first 5 seconds after she moves, she dodges instantly and the click does not register. Move slowly, aim well, and strike at the right moment to become her hero.
-
 ## How to Play
 
 - **Hover** – Pucca jumps to a random place and prints a teasing phrase (`catch me, nerd!`, `miss again`, etc.).
